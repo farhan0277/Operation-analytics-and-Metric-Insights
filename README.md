@@ -14,6 +14,9 @@ MySQL, Tableau
 ## Project Overview
 
 The project aimed to utilize advanced SQL skills to analyze user behavior and engagement data, uncover actionable insights, and facilitate data-driven decision-making. The primary objective was to gain a deeper understanding of user activity, growth, and retention patterns, with a particular focus on email engagement metrics.
+
+Link for the [events.csv](https://drive.google.com/file/d/1KrA_SV5NutpyG1WaqA4Pi0ENuljLklY2/view?usp=sharing) file as this file contains data >25mb
+
 ## Key Project Objectives
 
 - **Weekly User Engagement Analysis:**  Measure and analyze user activeness on a weekly basis to understand patterns and trends in user behavior.
